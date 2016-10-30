@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="arm64-v8a,armeabi-v7a,armeabi"
+    api-level="23"
+    density="xxhdpi"
+    format="8"
+    plugin-version="2.2.2"
+    timestamp="114068715871705"
+    token="1919444195404343966"
+    verifier="COLD_SWAP_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="0" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="0" />
+    <task
+        name="verifier"
+        duration="0" />
+
+    <artifact
+        location="/home/nacho/Desktop/FlappyDemo/android/build/intermediates/transforms/dex/debug/folders/1000/5/slice_0/classes.dex"
+        type="DEX" />
+
+    <build
+        timestamp="112560808569887"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="/home/nacho/Desktop/FlappyDemo/android/build/outputs/apk/android-debug.apk"
+            type="MAIN" />
+    </build>
+    <build
+        timestamp="113968424563288"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="/home/nacho/Desktop/FlappyDemo/android/build/intermediates/instant-run-resources/resources-debug.ir.ap_"
+            type="RESOURCES" />
+        <artifact
+            location="/home/nacho/Desktop/FlappyDemo/android/build/intermediates/builds/debug/113968424563288/classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="113999563755108"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="/home/nacho/Desktop/FlappyDemo/android/build/intermediates/builds/debug/113999563755108/classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="114068715871705"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="/home/nacho/Desktop/FlappyDemo/android/build/intermediates/transforms/dex/debug/folders/1000/5/slice_0/classes.dex"
+            type="DEX" />
+    </build>
+
+</instant-run>

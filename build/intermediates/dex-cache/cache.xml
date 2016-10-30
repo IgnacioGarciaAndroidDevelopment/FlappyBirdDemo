@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/nacho/Desktop/FlappyDemo/android/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6a31b5d626dfa73f2a4f8cf4b18d09b81620060c">
+        <dex dex="/home/nacho/Desktop/FlappyDemo/android/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_13533d4e1fc43ae5aa2179e662c7aa4ad4dbcc52/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/nacho/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-box2d/1.9.4/98a0d25c9f0637fecac6e4aacf7287aa635964f5/gdx-box2d-1.9.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="98a0d25c9f0637fecac6e4aacf7287aa635964f5">
+        <dex dex="/home/nacho/Desktop/FlappyDemo/android/build/intermediates/transforms/dex/debug/folders/1000/10/gdx-box2d-1.9.4_10a1a798299a502b230f53f27bd9e26cd9af6a0d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/nacho/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx/1.9.4/4b4b7962d1bc75af0438f5c81ec1010557bc9ee5/gdx-1.9.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4b4b7962d1bc75af0438f5c81ec1010557bc9ee5">
+        <dex dex="/home/nacho/Desktop/FlappyDemo/android/build/intermediates/transforms/dex/debug/folders/1000/10/gdx-1.9.4_12aba62ffa93e13804f804f5a70b18f60440cb05/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/nacho/Desktop/FlappyDemo/android/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="689b906ea40f7e6bb829952368fb089083bdd0e6">
+        <dex dex="/home/nacho/Desktop/FlappyDemo/android/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_93d115a09f144fb290121fe009ccf0485fdbba10/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/nacho/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-backend-android/1.9.4/194b33382d6d58fad031521ba3331d926c476c9b/gdx-backend-android-1.9.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="194b33382d6d58fad031521ba3331d926c476c9b">
+        <dex dex="/home/nacho/Desktop/FlappyDemo/android/build/intermediates/transforms/dex/debug/folders/1000/10/gdx-backend-android-1.9.4_2417fba0b385297e2bc476164fbaeabd373df287/classes.dex" />
+    </item>
+
+</items>

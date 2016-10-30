@@ -1,0 +1,7 @@
+#Sat Oct 29 12:34:04 CEST 2016
+base.0=/home/nacho/Desktop/FlappyDemo/android/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_13533d4e1fc43ae5aa2179e662c7aa4ad4dbcc52
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/home/nacho/Desktop/FlappyDemo/android/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_93d115a09f144fb290121fe009ccf0485fdbba10/classes.dex
+base.1=/home/nacho/Desktop/FlappyDemo/android/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_93d115a09f144fb290121fe009ccf0485fdbba10
+file.0=/home/nacho/Desktop/FlappyDemo/android/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_13533d4e1fc43ae5aa2179e662c7aa4ad4dbcc52/classes.dex
