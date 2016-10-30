@@ -1,4 +1,4 @@
-## Java
+﻿## Java
 
 *.class
 *.war
@@ -112,6 +112,7 @@ nb-configuration.xml
 .gradle
 gradle-app.setting
 build/
+gradlew.bat
 
 ## OS Specific
 .DS_Store
